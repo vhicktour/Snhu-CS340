@@ -1,0 +1,9 @@
+dash
+dash-leaflet
+dash-core-components
+dash-html-components
+dash-table
+pandas
+pymongo
+plotly
+matplotlib
